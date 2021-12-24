@@ -1,7 +1,10 @@
 
-body {
-  background-image: url(https://downloops.com/wp-content/uploads/edd/2018/02/CurvyPastel-Elegant-Flowing-Pattern-Motion-Background-Video-Loop-Sample3.jpg);
-  
+:root{
+  --cyan:#67e8f9;
+  --light-shade:#ecfeff;
+}
+body{
+  background: linear-gradient(to right,#67e8f9,#ecfeff);
 }
 .header {
   padding-bottom: 20px;
